@@ -54,7 +54,7 @@
 
 # Keyboard Shortcut
 
-Default option is Alt+S
+Default option is `ALT+S`
 
 1. Navigate to `chrome://extensions`
 2. Click on the menu icon in the top left corner and choose `Keyboard shortcuts` from the menu
