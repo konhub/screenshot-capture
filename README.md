@@ -10,7 +10,7 @@
 - Capture Viewport
 - Crop and Save (automatic save)
 - Crop and Wait (manual save)
-- Configurable Keyboard Shortcut (Default `ALT+S`)
+- Configurable Keyboard Shortcut (Default `Alt+S`)
 - Save screenshots in PNG or JPG file format
 - Save screenshots to file or copy to clipboard as Base64
 - Preserve or downscale screenshot size on HDPI displays like Retina
@@ -54,7 +54,7 @@
 
 # Keyboard Shortcut
 
-Default option is `ALT+S`
+Default option is `Alt+S`
 
 1. Navigate to `chrome://extensions`
 2. Click on the menu icon in the top left corner and choose `Keyboard shortcuts` from the menu
