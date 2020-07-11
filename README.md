@@ -77,7 +77,7 @@ This extension uses chrome's default download behaviour
 Note that the extension won't work on certain origins:
 
 - chrome origins like: `chrome://...` and `chrome-extension://...`
-- the official chrome web store: `https://chrome.google.com/webstore/category/extensions`
+- the official chrome web store: `https://chrome.google.com/webstore/`
 
 
 # License
