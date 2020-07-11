@@ -24,6 +24,7 @@
 1. Click on the extension icon using your **Right** Mouse Button
 2. Select `Options` from the context menu
 
+Or chrome-extension://giabbpobpebjfegnpcclkocepcgockkc/content/options.html
 
 # Capture Method
 
