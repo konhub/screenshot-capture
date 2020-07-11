@@ -21,7 +21,7 @@
 
 # Options
 
-1. Click on the extension button using your **Right** Mouse Button
+1. Click on the extension icon using your **Right** Mouse Button
 2. Select `Options` from the context menu
 
 
