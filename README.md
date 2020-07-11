@@ -24,8 +24,6 @@
 1. Click on the extension icon using your **Right** Mouse Button
 2. Select `Options` from the context menu
 
-Or [chrome-extension://giabbpobpebjfegnpcclkocepcgockkc/content/options.html](chrome-extension://giabbpobpebjfegnpcclkocepcgockkc/content/options.html)
-
 # Capture Method
 
 - **`Capture Viewport`** - activate the extension (either using the toolbar button or the [keyboard shortcut](#keyboard-shortcut)) to capture the visible part of the screen. You will be either prompted to save the screenshot or the screenshot will be saved automatically (depending on your [download preferences](#save-location))
