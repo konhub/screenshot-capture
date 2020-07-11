@@ -63,6 +63,8 @@ Default option is `Alt+S`
 
 # Save Location
 
+This extension uses chrome's default download behaviour
+
 1. Navigate to `chrome://settings`
 2. Click on the menu icon in the top left corner and expand the `Advanced` section in the sidebar menu
 3. Click on `Downloads`
