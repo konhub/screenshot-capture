@@ -48,7 +48,7 @@
 
 # Screenshot Size
 
-- **`Preserver original DPI size`** - the screenshot will be saved with the actual page size that you are seeing on screen
+- **`Preserve original DPI size`** - the screenshot will be saved with the actual page size that you are seeing on screen
 - **`Adjust to actual size`** - on HDPI displays like Retina or zoomed in pages, the screenshot will be downscaled to the original page size
 
 
